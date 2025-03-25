@@ -276,7 +276,8 @@
 | 비율척도   | ✅             | ✅         | ✅         | ✅          | 키, 몸무게, 나이, 소득         |
 
 #### 🔍 변수의 척도에 따른 분석 방법
-![image](whatiddone/Statistics_Study/image/3-5.png)
+![image](https://github.com/whatiddone/Statistics_Study/blob/main/image/3-5.png?raw=true)
+
 
 # 04. 데이터의 기술 통계적 측정
 
@@ -441,7 +442,8 @@ $$
 `사전확률 -> 새로운 정보(우도 확률) -> 베이즈 정리의 응용 -> 사후확률`
 
 #### 🔍 질병의 발생률과 양성 진단의 정확도에 따른 분류
-![image](whatiddone/Statistics_Study/image/5-4.png)
+![image](https://github.com/whatiddone/Statistics_Study/blob/main/image/5-4.png?raw=true)
+
 
 ### 5.4 확률변수의 개념과 종류
 ---
